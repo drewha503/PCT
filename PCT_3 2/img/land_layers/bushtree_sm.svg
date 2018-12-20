@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1381" height="145.4" viewBox="0 0 1381 145.4">
+  <defs>
+    <pattern id="_10_dpi_30_" data-name="10 dpi 30%" width="28.8" height="28.8" patternTransform="translate(0.15)" patternUnits="userSpaceOnUse" viewBox="0 0 28.8 28.8">
+      <rect width="28.8" height="28.8" fill="none"/>
+      <g>
+        <circle cx="28.8" cy="28.8" r="2.16" fill="#004000"/>
+        <circle cx="14.4" cy="28.8" r="2.16" fill="#004000"/>
+        <circle cx="28.8" cy="14.4" r="2.16" fill="#004000"/>
+        <circle cx="14.4" cy="14.4" r="2.16" fill="#004000"/>
+        <circle cx="7.2" cy="21.6" r="2.16" fill="#004000"/>
+        <circle cx="21.6" cy="21.6" r="2.16" fill="#004000"/>
+        <circle cx="7.2" cy="7.2" r="2.16" fill="#004000"/>
+        <circle cx="21.6" cy="7.2" r="2.16" fill="#004000"/>
+      </g>
+      <g>
+        <circle cy="28.8" r="2.16" fill="#004000"/>
+        <circle cy="14.4" r="2.16" fill="#004000"/>
+      </g>
+      <g>
+        <circle cx="28.8" r="2.16" fill="#004000"/>
+        <circle cx="14.4" r="2.16" fill="#004000"/>
+      </g>
+      <circle r="2.16" fill="#004000"/>
+    </pattern>
+  </defs>
+  <title>bushtree_sm</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3_Vege_2" data-name="Layer_3_Vege/2">
+      <g>
+        <g>
+          <path d="M1317,100.4V144.6a.8.8,0,0,1-.8.8H1308v-45Z" fill="#8a5d3b"/>
+          <path d="M1308,100.4v45h-8.19a.8.8,0,0,1-.8-.8V100.4Z" fill="#68462c"/>
+        </g>
+        <rect x="1253.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="1253.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="1259.62" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="1261.12" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="1250.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="1250.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="1233.01" y="54.19" width="144.47" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="1273.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="1273.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="1226" y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="1226" y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+      </g>
+      <g>
+        <g>
+          <path d="M740,100.4V144.6a.8.8,0,0,1-.8.8H731v-45Z" fill="#8a5d3b"/>
+          <path d="M731,100.4v45h-8.19a.8.8,0,0,1-.8-.8V100.4Z" fill="#68462c"/>
+        </g>
+        <rect x="676.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="676.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="682.62" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="684.12" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="673.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="673.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="656.01" y="54.19" width="144.47" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="696.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="696.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="649" y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="649" y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+      </g>
+      <g>
+        <g>
+          <path d="M91,100.4V144.6a.8.8,0,0,1-.8.8H82v-45Z" fill="#8a5d3b"/>
+          <path d="M82,100.4v45H73.83a.8.8,0,0,1-.8-.8V100.4Z" fill="#68462c"/>
+        </g>
+        <rect x="27.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="27.07" y="67.73" width="109.85" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="33.62" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="35.12" y="0.01" width="76.25" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect x="24.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="24.08" y="14.56" width="110.36" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="7.01" y="54.19" width="144.47" height="35.11" rx="15.48" ry="15.48" fill="#006838"/>
+        <rect x="47.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect x="47.65" y="35.13" width="107.35" height="44.14" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+        <rect y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="#004e2a"/>
+        <rect y="28.59" width="95.31" height="35.11" rx="15.48" ry="15.48" fill="url(#_10_dpi_30_)"/>
+      </g>
+    </g>
+  </g>
+</svg>
